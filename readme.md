@@ -36,8 +36,6 @@ Here are the available commands and their usage:
 
 ```bash
 task-cli add "Buy groceries"
-
-Output: Task added successfully (ID: 1)
 ```
 
 ### ▎Updating and Deleting Tasks
