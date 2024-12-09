@@ -80,6 +80,8 @@ The project includes a comprehensive suite of unit tests to ensure the reliabili
 
 • Listing tasks based on their statuses
 
+• Processing commands
+
 To run the tests, use the following command:
 
 ```bash
