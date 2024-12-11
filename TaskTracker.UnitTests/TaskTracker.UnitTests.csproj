@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\task-cli\task-cli.csproj" />
+    <ProjectReference Include="..\TaskTracker\TaskTracker.csproj" />
   </ItemGroup>
 
   <ItemGroup>
